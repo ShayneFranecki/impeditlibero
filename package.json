@@ -1,0 +1,22 @@
+{
+  "name": "impeditlibero",
+  "version": "1.0.0",
+  "description": "Eth JSON-RPC WebSocket client",
+  "main": "index.js",
+  "keywords": [
+    "eth",
+    "json-rpc",
+    "websocket",
+    "quis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/impeditlibero.git"
+  },
+  "author": "EltaSwaniawski",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.0",
+    "ws": "^7.5.3"
+  }
+}
